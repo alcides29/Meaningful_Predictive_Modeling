@@ -1,2 +1,2 @@
-# Meaningful_Predictive_Modeling
-Course by University of California San Diego on Coursera
+# Meaningful Predictive Modeling
+Course by UC San Diego on Coursera - Python Data Products for Predictive Analytics Specialization 
